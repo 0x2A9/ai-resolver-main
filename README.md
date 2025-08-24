@@ -1,9 +1,9 @@
 # AI Resolver Main
-The **main** component of the **AI Resolver** project. Contains web application, which connects **UI** with the **AI Microservice** component that solves sudoku. The current component also contains predefined sudoku solving algorithm 
+The **main** component of the **AI Resolver** project. Contains web application, which connects **UI** with the **AI Microservice** component that solves sudoku
 
 # Set Up
 - To use the **Docker** instead of manual installation follow the ```ai-resolver-docker``` repository setup
-- The next packages should be enabled to install: 
+- For the **manual** installation the next packages should be enabled to install: 
    - ```php-curl```
    - ```php-xml```
    - ```php-mbstring```
